@@ -1,0 +1,107 @@
+body {
+  background-color: lightblue;
+
+}
+/*
+ #backgroundImage {
+            background-image: url('https://images.unsplash.com/photo-1562813733-b31f71025d54?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60');
+            background-repeat: no-repeat;
+            background-size: 100%;
+            opacity: 0.2;
+            filter:alpha(opacity=0);
+            height:100%;
+            width:100%;
+            z-index:0.1;
+        } */
+        
+
+        /*
+     .main{
+     	image-rendering: : url('https://pbs.twimg.com/profile_images/1253871787462410242/cZmvryVj_400x400.jpg')
+            height:500px;
+            width:900px;
+            margin:auto;
+            background-color:transparent;
+            z-index:1;
+            opacity: 8;
+            filter:alpha(opacity=100);
+
+        } */
+        .myDiv {
+    position: relative;
+    z-index: 1;
+}
+
+.myDiv {
+	background-image: url('file:///C:/Users/hp/Downloads/parrot-1590233200987-7113.jpg');
+	filter: blur(8px);
+	height:100%;
+   
+}
+.edu
+{
+	font-size:30px;
+}
+.edu-desc
+{
+	color:white;
+	font-size: 24px
+}
+.project
+{
+	color:white;
+}
+body
+{
+	background-size: contain;
+}
+.hi
+{
+	font-size: 80px;
+	color: white;
+	font-weight: bolder;
+}
+        
+.name
+{
+
+}
+.intro
+{
+	color: white;
+	font-style: bold;
+	font-size: 30px;
+	font-family: monospace;
+	font-weight: bolder;
+}
+.tdinfo
+{
+	
+}
+.subintro
+{
+	color:white;
+	font-style: italic;
+	font-size: 20px;
+}
+.bio
+{
+	color:white;
+	text-shadow: inherit;
+	font-size: 18px;
+	font-style: italic;
+}
+img
+{
+	border-radius: 100%;			
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+table
+{
+border-spacing: 30px;
+}
+}
